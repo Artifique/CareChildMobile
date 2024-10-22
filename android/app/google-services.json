@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294435790256",
+    "project_id": "access-ability-9faa7",
+    "storage_bucket": "access-ability-9faa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294435790256:android:c6a74049a746909440ca75",
+        "android_client_info": {
+          "package_name": "com.example.accessability"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9o_HOCMuSbgMh6Dcll0hGfBIqc96tX7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
